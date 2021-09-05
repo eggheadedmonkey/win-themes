@@ -1,2 +1,0 @@
-INSTALL:
-Copy cursors with replacement to: "C:\Windows\Cursors\VS (Beta reduction)" or "C:\Windows\Cursors\VS (Beta)".

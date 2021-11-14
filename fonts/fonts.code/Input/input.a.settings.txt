@@ -1,0 +1,23 @@
+INPUT 
+SETTINGS
+		
+These fonts have been customized with the settings below. You can further customize 
+your fonts with the inputCustomize.py command-line tool found in this package, or 
+by re-downloading the fonts at <http://input.fontbureau.com/download>.
+
+
+	Four Style Family
+		Regular: InputMono-Regular.ttf
+		Italic: InputMono-Regular.ttf
+		Bold: InputMono-Regular.ttf
+		Bold Italic: InputMono-Regular.ttf
+
+	Alternates
+		--a=ss
+		--asterisk=height
+		--braces=straight
+		--i=topserif
+		--l=serifs
+		--zero=slash
+
+	Line Height: 1.2×
